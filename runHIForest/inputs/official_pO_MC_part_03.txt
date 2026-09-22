@@ -1,0 +1,9 @@
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/1e6020bc-77fb-4934-a7e5-ca91e975ef46.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/b757ba5e-1c54-4a8f-95ac-19bc5e4dd9a3.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/fe0bf77b-cdbb-4408-9f78-a24f8a7c848b.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/41fe2e2b-8b36-4ffe-9468-1e7b84bf688f.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/e48dbba7-d00f-44d7-a219-5f3a60043bd4.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/11d35e1b-b4f8-4cf9-88b8-3dedb3f4e984.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/80cecee6-938e-4a41-9a86-5eadbdfeb27e.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/5d74db3b-723a-420c-95c4-5e39349d503c.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/e75c962c-0f7e-47ef-9929-6fb312fb350e.root

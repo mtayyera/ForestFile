@@ -1,0 +1,3 @@
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/328c6b59-2914-464e-9030-6b08c2f79127.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/bcbd45ba-52d0-413c-a9a4-f5ca1ad7713c.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/6d07b6f6-072b-4492-9f08-59e04f6eeea3.root

@@ -1,0 +1,2 @@
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/eb531c56-7510-4b01-9eec-f9d19c170ead.root
+/store/mc/HINpOSpring25MiniAOD/MinBias_Angatyr_9p62TeV_pythia/MINIAODSIM/NoPU_150X_mcRun3_2025_forpO_realistic_v9-v4/120000/c190c4e2-797f-4ad9-8b07-d619e2974812.root
